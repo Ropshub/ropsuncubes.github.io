@@ -1,0 +1,20 @@
+.menu{
+	text-align: center;
+	position: fixed;
+	background: white;
+	opacity: 0.8;
+}
+.menu a{
+	text-decoration: none;
+	display: inline-block;
+	width: 100px;
+	color: red
+}
+.menu a:hover{
+	background-color: lightblue;
+}
+#Picture{
+	text-align: center;
+	margin: 0 auto;
+	margin-top: 100px;
+}
